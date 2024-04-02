@@ -4,7 +4,7 @@ using UnityEditor;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace dninosores.UnityAlphaCorrector
+namespace ollyisonit.UnityAlphaCorrector
 {
     /// <summary>
     /// Allows for setting a UI image's alpha to values greater than 1 by duplicating the object.
